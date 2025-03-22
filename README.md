@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammad Anas!
 
-<!--
-**Manny61/Manny61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Web Developer | Data Science Enthusiast | Big Data Analyst  
 
-Here are some ideas to get you started:
+🎓 **B.Tech Mathematics and Computing (2nd Year)**  
+📍 **Central University of Karnataka**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me  
+- 💻 Passionate about **web development, data science, and big data analysis**.  
+- 🚀 Exploring AI-driven data solutions and scalable web technologies.  
+- 🔍 Always learning and working on exciting projects.  
+
+### 🛠️ Skills  
+- **Programming:** Python, JavaScript, SQL  
+- **Web Development:** HTML, CSS, React, Node.js  
+- **Data Science & Big Data:** Pandas, NumPy, TensorFlow, Spark  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+
+### 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+
+### 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammad-anas-20a6411b7)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Manny61/)  
+
+🚀 **Let's build something amazing!**  
