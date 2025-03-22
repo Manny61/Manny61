@@ -17,7 +17,7 @@
 - **Databases:** MySQL, PostgreSQL, MongoDB  
 
 ### 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manny61&show_icons=true&theme=radical)  
 
 ### 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammad-anas-20a6411b7)  
