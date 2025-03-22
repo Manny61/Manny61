@@ -1,19 +1,19 @@
 # 👋 Hi, I'm Mohammad Anas!
 
-## 🚀 Web Developer | Data Science Enthusiast | Big Data Analyst  
+## 🚀 Web Developer | Data Science Enthusiast
 
 🎓 **B.Tech Mathematics and Computing (2nd Year)**  
 📍 **Central University of Karnataka**  
 
 ### 💡 About Me  
-- 💻 Passionate about **web development, data science, and big data analysis**.  
+- 💻 Passionate about **web development, and data science**.  
 - 🚀 Exploring AI-driven data solutions and scalable web technologies.  
 - 🔍 Always learning and working on exciting projects.  
 
 ### 🛠️ Skills  
 - **Programming:** Python, JavaScript, SQL  
 - **Web Development:** HTML, CSS, React, Node.js  
-- **Data Science & Big Data:** Pandas, NumPy, TensorFlow, Spark  
+- **Data Science:** Pandas, NumPy, TensorFlow, Spark  
 - **Databases:** MySQL, PostgreSQL, MongoDB  
 
 ### 📈 GitHub Stats  
