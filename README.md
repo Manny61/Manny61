@@ -11,9 +11,9 @@
 - 🔍 Always learning and working on exciting projects.  
 
 ### 🛠️ Skills  
-- **Programming:** Python, JavaScript, SQL  
+- **Programming:** Python, JavaScript, R, Matlab, Java, CPP
 - **Web Development:** HTML, CSS, React, Node.js  
-- **Data Science:** Pandas, NumPy, TensorFlow, Spark  
+- **Data Science:** Pandas, NumPy, TensorFlow
 - **Databases:** MySQL, PostgreSQL, MongoDB  
 
 ### 📈 GitHub Stats  
